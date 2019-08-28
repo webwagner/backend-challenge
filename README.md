@@ -6,8 +6,8 @@ Você deverá fazer um fork do repositório e ao final abrir um 'pull request'. 
 
 
 # Stack
-- Symfony 4.3 (preferencialemnte) / Laravel
-- Banco de dados relacional (mysql preferencialemnte)
+- Symfony 4.3 (preferencialmente) / Laravel
+- Banco de dados relacional (mysql preferencialmente)
 
 # Diferenciais
 - Docker
